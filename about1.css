@@ -1,0 +1,185 @@
+
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@500&display=swap');
+.{
+    margin: 0;
+    padding: 0;
+    width: 1440px;
+    height: 1844px;
+    box-sizing: border-box;
+}
+.container{
+    background-color: #f3f3f3;
+}
+nav{
+    background-color: #f3f3f3;
+    margin-top: 102px;
+    margin-left: 160px;
+    margin-right: 160px;
+    margin-bottom: 223px;
+    height: 35px;
+    width: 1120px;
+}
+.logo{
+    width: 67.46px;
+    height: 23px;
+}
+nav ul {
+    float: right;
+    display: inline-block;
+    margin: 0 5px;
+}
+nav ul a{
+    padding: 20px;
+    text-decoration : none;
+    font-family: 'DM Sans';
+    font-size: 21px;
+    font-weight: 500;
+    color: #181717;  
+}
+.body{
+    width: 1120px;
+    height: 1242px;
+    margin-left: 160px;
+}
+.section1{
+    display: flex;
+}
+h1{
+    margin: 0px;
+    font-family: DM Sans;
+    width: 480px;
+    height: 190px;
+    font-size: 60px;
+    font-weight: 500;
+    text-align: left;
+}
+p{
+    font-family: 'DM Sans';
+    margin-top: 32px;
+    margin-right: 124px;
+    width: 575px;
+    height: 359px;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: left;
+    line-height: 37px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+.profile{
+    float: right;
+    margin-left: 210px;
+    width: 421px;
+    height: 590px;
+}
+.Info{
+    width: 623px;
+    height: 216px;
+    margin-top: 136px;
+    margin-right: 657px;
+    margin-bottom: 134px;
+} 
+
+.one{
+    position: absolute;
+    margin-top: 3px;
+    margin-right: 499px;
+    width: 120px;
+    height: 20px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+.two{
+    position: absolute;
+    margin-left: 187px;
+    width: 436px;
+    height: 54px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+.three{
+    position: absolute;
+    width: 213px;
+    height: 22px;
+    margin-top: 78px;
+    margin-right: 222px;
+    margin-bottom: 116px;
+    margin-left: 188px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+.five{
+    position: absolute;
+    width: 401px;
+    height: 44px;
+    margin-top: 172px;
+    margin-right: 35px;
+    margin-left: 187px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+.four{
+    position: absolute;
+    width: 124px;
+    height: 20px;
+    margin-top: 175px;
+    margin-right: 499px;
+    margin-bottom: 21px;
+    font-size: 18px;
+    font-family: 'DM Sans', sans-serif;
+}
+
+
+hr{
+    height: 2px;
+    background-color: #181717;
+}
+.contact{
+    width: 1120px;
+    height: 166px;
+}
+h3{
+    position: absolute;
+    margin-top: 73px;
+    margin-right: 773px;
+    margin-bottom: 22px;
+    font-size: 32px;
+    font-family: 'DM Sans';
+}
+h4{
+    position: absolute;
+    margin-top: 80px;
+    margin-right: 79px;
+    margin-bottom: 49px;
+    margin-left: 669px;
+    font-size: 32px;
+    font-family: 'DM Sans';
+}
+h5{
+    position: absolute;
+    font-family: 'DM Sans',sans-serif;
+    margin-top: 144px;
+    margin-right: 341px;
+    margin-left: 669px;
+
+}
+
+.footer{
+    margin-left: 160px;
+    width: 1120px;
+    height: 20px;
+    display: inline-block;
+    margin-top: 194px;
+}
+.footerName{
+    font-size: 21px;
+    font-family: 'DM Sans';
+    text-decoration : none;
+    color: #2429AF;
+}
+footer ul a{
+    font-size: 21px;
+    font-family: 'DM Sans'
+}
+
+
